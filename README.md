@@ -35,9 +35,10 @@ The dashboard was built from raw sales transaction data containing information s
 - Structured dataset ready for analysis in Excel
 - Used as the foundation for PivotTables, Charts, and Dashboard Design
   
- **Raw Data**        |   **Cleaned Data**
-:------------------: |  :---------------------:
-![](Rawdata.png)     |  ![](Cleaneddata.png)
+ **Raw Data**                 |   **Cleaned Data**
+:-----------------------:     |  :---------------------:
+![](Rawdata.png)              |  ![](Cleaneddata.png)
+[Downloadhere](Raw_Data)      | [Downloadhere](Cleaned_Data)
 ## 📸Dashboard Preview
 Below is the final Sales & Profit Dashboard created in Excel:
 Key Visuals Displayed:
@@ -49,6 +50,9 @@ Key Visuals Displayed:
 - Monthly Sales Trends to identify seasonal patterns
 - Top 5 Customers Profits highlighting high-value customers
   ![](Dashboard.png)
+This is the link to the interactive dashboard
+  [Downloadhere](Dashboard.xlsx)
+  
   ## 📈Insights Gained
  From the Sales & Profit Dashboard, the following key insights were identified: 
 - 📊 Yearly Profit Growth – Clear upward/downward trends in profitability over time
