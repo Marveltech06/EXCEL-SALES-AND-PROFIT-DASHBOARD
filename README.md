@@ -49,7 +49,7 @@ Key Visuals Displayed:
 - Sales by State Map for geographical insights
 - Monthly Sales Trends to identify seasonal patterns
 - Top 5 Customers Profits highlighting high-value customers
-  ![](Dashboard.png)
+  ![](Dashboard1.png)
 This is the link to the interactive dashboard
   [Downloadhere](Dashboard.xlsx)
   
