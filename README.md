@@ -1,4 +1,4 @@
-# 📊 Sales & Profit Analysis
+# 📊 Sales & Profit Dashboard
 ![](DA_image.jpg)
 This project showcases a Sales & Profit Dashboard in Excel that provides insights into total sales, profit trends, sales by category, customer count, geographical performance, monthly sales, and top customers. Built with PivotTables, charts, and slicers, the dashboard offers an interactive way to analyze business performance.
 # Introduction
